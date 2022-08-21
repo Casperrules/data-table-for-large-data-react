@@ -1,0 +1,26 @@
+.pagenation-div{
+    margin-top: 1rem;
+    display: flex;
+}
+
+.previous-button{
+    background-color: #ffe7a1;
+    color: #000;
+    cursor: pointer;
+    border-radius: 15px;
+    padding: 0.2rem 0.5rem;
+}
+
+.next-button{
+    background-color: #ffe7a1;
+    color: #000;
+    cursor: pointer;
+    border-radius: 15px;
+    padding: 0.2rem 0.5rem;
+}
+
+.search-sort-div{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
